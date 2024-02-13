@@ -1,1 +1,1 @@
-My first project
+Мой репозиторий - https://github.com/rowdrowd/ono-tebe-nado
