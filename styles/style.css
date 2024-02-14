@@ -44,7 +44,7 @@
   list-style-type: circle;
 }
 
-.header__links-list-item{
+.header__links-list-item {
   padding-left: 4px;
 }
 
@@ -252,10 +252,9 @@
   list-style: none;
 }
 
-.footer__menu-link_active{
+.footer__menu-link_active {
   text-decoration: none;
 }
-
 
 .footer__social-list {
   display: flex;
